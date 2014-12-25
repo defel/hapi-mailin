@@ -1,6 +1,6 @@
 {
   "name": "hapi-mailin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Artisanal inbound emails for hapi",
   "main": "index.js",
   "scripts": {
