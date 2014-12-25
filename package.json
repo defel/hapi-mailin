@@ -1,6 +1,6 @@
 {
   "name": "hapi-mailin",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Artisanal inbound emails for hapi",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/defel/hapi-mailin",
   "dependencies": {
     "mailin": "^1.0.0"
+  },
+  "peerDependencies": {
+    "hapi": "^7.5.2"
   }
 }
